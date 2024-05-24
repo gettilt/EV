@@ -1,0 +1,593 @@
+{
+    "AAPL": {
+        "chat_gpt": "Apple, rumored to be entering the EV market, could bring its significant resources and innovation to electric vehicles.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "ALB": {
+        "chat_gpt": "Albemarle is a leading producer of lithium, a critical component in EV batteries, benefiting from the surge in EV production.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/electric-vehicle-battery-stocks/",
+                "title": "Investing in Electric Vehicle (EV) Battery Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://moneywise.com/investing/stocks/solid-state-battery-stocks",
+                "title": "7 Solid-State Battery Stocks to Watch in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2024/04/prepare-for-a-charge-3-battery-stocks-to-buy-before-an-ev-rebound/",
+                "title": "3 Battery Stocks to Buy Before an EV Rebound",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "BLNK": {
+        "chat_gpt": "Blink Charging is expanding its network of electric vehicle charging stations, essential infrastructure for the growing EV market.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=hfHZ-Ie3-BQ",
+                "title": "What's Squeezing EV Charging Stocks? | IBD",
+                "youtube_embed_url": "https://www.youtube.com/embed/hfHZ-Ie3-BQ"
+            },
+            {
+                "url": "https://www.nasdaq.com/articles/7-ev-charging-stocks-that-will-make-early-investors-rich",
+                "title": "7 EV Charging Stocks That Will Make Early Investors Rich",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketbeat.com/compare-stocks/ev-charging-stocks/",
+                "title": "Compare EV Charging Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "BYD": {
+        "chat_gpt": "BYD is not only a major electric vehicle producer but also a large battery manufacturer, benefiting from the EV trend.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "CHPT": {
+        "chat_gpt": "ChargePoint operates one of the largest networks of EV charging stations, benefiting from increased EV adoption.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=hfHZ-Ie3-BQ",
+                "title": "What's Squeezing EV Charging Stocks? | IBD",
+                "youtube_embed_url": "https://www.youtube.com/embed/hfHZ-Ie3-BQ"
+            },
+            {
+                "url": "https://www.nasdaq.com/articles/7-ev-charging-stocks-that-will-make-early-investors-rich",
+                "title": "7 EV Charging Stocks That Will Make Early Investors Rich",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketbeat.com/compare-stocks/ev-charging-stocks/",
+                "title": "Compare EV Charging Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "ENPH": {
+        "chat_gpt": "Enphase Energy, a leader in solar microinverters, benefits from the trend as EV owners seek sustainable charging options.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "F": {
+        "chat_gpt": "Ford has committed to electrifying its fleet, introducing electric versions of popular models like the F-150.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ev-stocks/",
+                "title": "7 Best EV Stocks of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/The_EVGuy/status/1788647329429438968",
+                "text": "The top 5\n\n1) $TSLA not shocked \n2) Hyundai / Kia group (no surprise)\n3) $F \n4) $RIVN \n5) Mercedes \n\nWhat are your thoughts on this chart? How do you see it in 5 years ? https://t.co/JDoeChY2s0",
+                "username": "The_EVGuy",
+                "user_url": "https://twitter.com/The_EVGuy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1575666182149099522/gRR6cdEF_normal.jpg",
+                "date": "2024-05-09T19:08:49Z"
+            },
+            {
+                "url": "https://twitter.com/marketswithmay/status/1788553669815779400",
+                "text": "Can we just be very honest? If the US wants to grow EV, we aren't where we need to be with batteries to think that removing it for autos with Chinese batteries doesn't just remove the tax credit for at least a few years.  $TSLA $GM $F $ALB $PCAR \n\nThis is just more removal of tax credits b/c our debt is too high.\n\nhttps://t.co/H9kS80WdJ0",
+                "username": "marketswithmay",
+                "user_url": "https://twitter.com/marketswithmay",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1608598917158928385/cJ27bH-G_normal.jpg",
+                "date": "2024-05-09T12:56:39Z"
+            },
+            {
+                "url": "https://twitter.com/eletricvehicles/status/1788568792399819100",
+                "text": "Trump Promises to Reverse Biden\u2019s Measures on EVs \u2014 EV $TSLA $STLA $F $VWAGY\nhttps://t.co/RlTeXo91ed via @eletricvehicles",
+                "username": "eletricvehicles",
+                "user_url": "https://twitter.com/eletricvehicles",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1476156789523689473/CSLVjfNp_normal.jpg",
+                "date": "2024-05-09T13:56:44Z"
+            }
+        ],
+        "experts": []
+    },
+    "GM": {
+        "chat_gpt": "General Motors is making significant investments in electric vehicles and autonomous driving technologies.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "LI": {
+        "chat_gpt": "Li Auto is another Chinese EV manufacturer, specializing in electric SUVs and benefiting from China's push for electric vehicles.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.tipranks.com/news/nio-and-li-auto-morgan-stanley-picks-top-ev-stocks-to-buy-ahead-of-earnings",
+                "title": "Nio and Li Auto: Morgan Stanley Picks Top EV Stocks to Buy Ahead of \nEarnings - TipRanks.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2024/04/3-electric-vehicle-stocks-to-buy-in-april-and-hold-forever/",
+                "title": "3 Electric Vehicle Stocks to Buy in April and Hold Forever",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ev-stocks/",
+                "title": "7 Best EV Stocks of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "NIO": {
+        "chat_gpt": "NIO is a prominent electric vehicle manufacturer in China, showing rapid growth and expansion.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=jm2KAtEmLx8",
+                "title": "\ud83d\ude80 The 7 Best Electric Vehicle Stocks To Buy In a Changing ...",
+                "youtube_embed_url": "https://www.youtube.com/embed/jm2KAtEmLx8"
+            },
+            {
+                "url": "https://www.tipranks.com/news/nio-and-li-auto-morgan-stanley-picks-top-ev-stocks-to-buy-ahead-of-earnings",
+                "title": "Nio and Li Auto: Morgan Stanley Picks Top EV Stocks to Buy Ahead of \nEarnings - TipRanks.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://list.solar/transport/top-ev-stocks/",
+                "title": "Top EV Stocks | Best Electric Vehicle stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/drumkix/status/1788610102523539606",
+                "text": "$NIO Leads $TSLA in\u2026\n\n\u2705 #LiDar Equipped #EVs\n\n\u2705 Battery Swappable #EV\n\n\u2705 #Autonomous \ud83d\udd0b Power\n\n\u2705 3min \ud83d\udd0b Upgrade\n\nBY A FLEET OF 500,000+\n\n\u2705 Oh and the 650 Mile Range #SolidState \ud83d\udd0b+\n\n\u2705 #NIOPower\ud83d\udd0c Network\n\n#ONVO Knocking on #Tesla Door! \n\njs \ud83e\udd1f\ud83d\ude1c\n\n#NIOPower #BAAS https://t.co/Qh5oWaBgbP",
+                "username": "drumkix",
+                "user_url": "https://twitter.com/drumkix",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1773391617027649546/I4aH_s8L_normal.jpg",
+                "date": "2024-05-09T16:40:53Z"
+            },
+            {
+                "url": "https://twitter.com/InvestorPlace/status/1788634015424983168",
+                "text": "Dear $NIO Stock Fans, Mark Your Calendars for May 15\n\n-Chinese EV manufacturer Nio saw its shares pop higher following a new vehicle launch.\n\n-Nio will release a low-priced SUV that competes with the Tesla $TSLA Model Y on May 15.\n\n-NIO appears near the center of a global war of attrition.",
+                "username": "InvestorPlace",
+                "user_url": "https://twitter.com/InvestorPlace",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1441450768381456387/7LRvvfYT_normal.jpg",
+                "date": "2024-05-09T18:15:55Z"
+            },
+            {
+                "url": "https://twitter.com/Daksh8740/status/1788638714295353566",
+                "text": "Best trading community with more executive chat rooms \n join herehttps://linktr.ee/tradingalertsonwhatsapp\n\n$SPY $NIO $TSLA $DGLY  $TWTR $WKHS $ISIG $ES $AKBA $SUP $EV $QQQ https://t.co/CCWwoj4ouk",
+                "username": "Daksh8740",
+                "user_url": "https://twitter.com/Daksh8740",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1509635791487582228/Lv_99cEc_normal.jpg",
+                "date": "2024-05-09T18:34:35Z"
+            }
+        ],
+        "experts": []
+    },
+    "PLUG": {
+        "chat_gpt": "Plug Power is involved in hydrogen fuel cell technology, which could power future electric vehicles and infrastructure.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "QS": {
+        "chat_gpt": "QuantumScape is developing solid-state battery technology, which could revolutionize battery efficiency and safety for EVs.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/electric-vehicle-battery-stocks/",
+                "title": "Investing in Electric Vehicle (EV) Battery Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://moneywise.com/investing/stocks/solid-state-battery-stocks",
+                "title": "7 Solid-State Battery Stocks to Watch in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2023/11/7-stocks-leading-the-charge-in-battery-technology/",
+                "title": "7 Stocks Leading the Charge in Battery Technology",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "RIVN": {
+        "chat_gpt": "Rivian focuses on electric trucks and SUVs, a segment with significant growth potential in the EV market.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=P7d1mzm_w3o",
+                "title": "History Says: Sell EV Stocks Before It\u2019s Too Late",
+                "youtube_embed_url": "https://www.youtube.com/embed/P7d1mzm_w3o"
+            },
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ev-stocks/",
+                "title": "7 Best EV Stocks of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://marketrealist.com/p/best-electric-vehicle-stocks-to-buy-now/",
+                "title": "The Best Electric Vehicle Stocks to Buy Now",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/The_EVGuy/status/1788647329429438968",
+                "text": "The top 5\n\n1) $TSLA not shocked \n2) Hyundai / Kia group (no surprise)\n3) $F \n4) $RIVN \n5) Mercedes \n\nWhat are your thoughts on this chart? How do you see it in 5 years ? https://t.co/JDoeChY2s0",
+                "username": "The_EVGuy",
+                "user_url": "https://twitter.com/The_EVGuy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1575666182149099522/gRR6cdEF_normal.jpg",
+                "date": "2024-05-09T19:08:49Z"
+            },
+            {
+                "url": "https://twitter.com/fortunadiuvat9/status/1788626470723788899",
+                "text": "@DecryptSam Eventually the market sorts between what is best in class and worst and money starts flowing into the best. A good example in pure EV\u2019s is $TSLA vs $RIVN and $LCID. In the #BTC mining space $MARA is leading the way among the publicly traded miners. Profitable, IP, innovation.",
+                "username": "fortunadiuvat9",
+                "user_url": "https://twitter.com/fortunadiuvat9",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1779313128662278144/dZpS6V8U_normal.png",
+                "date": "2024-05-09T17:45:56Z"
+            },
+            {
+                "url": "https://twitter.com/tslachart/status/1788660238255886480",
+                "text": "\ud83d\udea8 EV stock recap 5/9/2024 \ud83d\udea8\n\n(6) $TSLA -1.57% \ud83d\udfe5 $171.97\n\n(1) $GM 0.71% \ud83d\udfe9 $45.37\n\n(2) $SPY 0.57% \ud83d\udfe9 $520.12\n\n(3) $F -0.09% \ud83d\udfe5 $12.14\n\n(4) $LCID -0.37% \ud83d\udfe5 $2.70\n\n(5) $RIVN -0.44% \ud83d\udfe5 $10.22\n\n\ud83d\udd17 More Tesla metrics \u2192 https://t.co/nJYYBOmwRE",
+                "username": "tslachart",
+                "user_url": "https://twitter.com/tslachart",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1640231990418079746/HiLia0sM_normal.jpg",
+                "date": "2024-05-09T20:00:07Z"
+            }
+        ],
+        "experts": []
+    },
+    "SEDG": {
+        "chat_gpt": "SolarEdge Technologies provides solar inverters and technology, indirectly benefiting from the demand for green EV charging solutions.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "SQM": {
+        "chat_gpt": "Sociedad Quimica y Minera is a major supplier of lithium, benefiting from the global increase in demand for EV batteries.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TSLA": {
+        "chat_gpt": "Tesla is a leader in electric vehicles, constantly innovating in both vehicle technology and battery production.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=P7d1mzm_w3o",
+                "title": "History Says: Sell EV Stocks Before It\u2019s Too Late",
+                "youtube_embed_url": "https://www.youtube.com/embed/P7d1mzm_w3o"
+            },
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ev-stocks/",
+                "title": "7 Best EV Stocks of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://list.solar/transport/top-ev-stocks/",
+                "title": "Top EV Stocks | Best Electric Vehicle stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/garyblack00/status/1788594894979674348",
+                "text": "$UBER CEO Dara Khosrowshahi\u2019s comments on $TSLA and autonomy:\n1/ AV technology will be very good for the ride-hailing industry since it will reduce costs and increase adoption.\n2/ AV technology will take a long time to develop - partly due to the regulatory framework required but also the tech itself can\u2019t make a jump from human drivers fully to AV.\n3/ Uber looking to partner with the AV industry and can bring a lot to the table - routing algorithms, pricing matching, payment systems. \n4/ $TSLA FSD looks like a great product.",
+                "username": "garyblack00",
+                "user_url": "https://twitter.com/garyblack00",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1425220761728520194/CwLMGJp0_normal.jpg",
+                "date": "2024-05-09T15:40:28Z"
+            },
+            {
+                "url": "https://twitter.com/PelosiTracker_/status/1788597043654484097",
+                "text": "Something to keep an eye on \u270d\ufe0f\n\nAt a private event, Trump asked Oil Company CEO's to raise $1B for his campaign\n\nIn exchange, he'd target the electric vehicle industry if he wins - The Washington Post\n\nWould affect stocks like $TSLA, $XOM, &amp; more",
+                "username": "PelosiTracker_",
+                "user_url": "https://twitter.com/PelosiTracker_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1540038746149572608/3DXTyIR6_normal.jpg",
+                "date": "2024-05-09T15:49:00Z"
+            },
+            {
+                "url": "https://twitter.com/SpecialSitsNews/status/1788630752353005709",
+                "text": "Breaking: $BP is looking to buy $TSLA Supercharger stations (BBG)\n- Could be why Tesla fired entire team\n- BP \u201cis aggressively looking to acquire real estate to scale our network, which is a heightened focus following the recent Tesla announcement.\u201d",
+                "username": "SpecialSitsNews",
+                "user_url": "https://twitter.com/SpecialSitsNews",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1610807772836233218/HXHJ7Ljx_normal.jpg",
+                "date": "2024-05-09T18:02:57Z"
+            }
+        ],
+        "experts": []
+    },
+    "XPEV": {
+        "chat_gpt": "XPeng is a Chinese electric vehicle manufacturer with strong growth potential, focusing on smart, technology-driven EVs.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=jm2KAtEmLx8",
+                "title": "\ud83d\ude80 The 7 Best Electric Vehicle Stocks To Buy In a Changing ...",
+                "youtube_embed_url": "https://www.youtube.com/embed/jm2KAtEmLx8"
+            },
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ev-stocks/",
+                "title": "7 Best EV Stocks of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://list.solar/transport/top-ev-stocks/",
+                "title": "Top EV Stocks | Best Electric Vehicle stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "EVGO": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/7-ev-charging-stocks-that-will-make-early-investors-rich",
+                "title": "7 EV Charging Stocks That Will Make Early Investors Rich",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2024/03/the-3-best-ev-charging-stocks-to-buy-in-q2-2024/",
+                "title": "The 3 Best EV Charging Stocks to Buy in Q2 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://greenstocknews.com/stocks/ev-charging-stocks",
+                "title": "List of EV Charging Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "NKLA": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=jm2KAtEmLx8",
+                "title": "\ud83d\ude80 The 7 Best Electric Vehicle Stocks To Buy In a Changing ...",
+                "youtube_embed_url": "https://www.youtube.com/embed/jm2KAtEmLx8"
+            },
+            {
+                "url": "https://list.solar/transport/top-ev-stocks/",
+                "title": "Top EV Stocks | Best Electric Vehicle stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "SLDP": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/electric-vehicle-battery-stocks/",
+                "title": "Investing in Electric Vehicle (EV) Battery Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://moneywise.com/investing/stocks/solid-state-battery-stocks",
+                "title": "7 Solid-State Battery Stocks to Watch in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2023/11/7-stocks-leading-the-charge-in-battery-technology/",
+                "title": "7 Stocks Leading the Charge in Battery Technology",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "AKBA": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Daksh8740/status/1788638714295353566",
+                "text": "Best trading community with more executive chat rooms \n join herehttps://linktr.ee/tradingalertsonwhatsapp\n\n$SPY $NIO $TSLA $DGLY  $TWTR $WKHS $ISIG $ES $AKBA $SUP $EV $QQQ https://t.co/CCWwoj4ouk",
+                "username": "Daksh8740",
+                "user_url": "https://twitter.com/Daksh8740",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1509635791487582228/Lv_99cEc_normal.jpg",
+                "date": "2024-05-09T18:34:35Z"
+            },
+            {
+                "url": "https://twitter.com/Daksh8740/status/1788625474010144820",
+                "text": "Best trading community with more executive chat rooms \n join herehttps://linktr.ee/tradingalertsonwhatsapp\n\n$SPY $NIO $TSLA $DGLY  $TWTR $WKHS $ISIG $ES $AKBA $SUP $EV $QQQ https://t.co/IeCz8Z0FCy",
+                "username": "Daksh8740",
+                "user_url": "https://twitter.com/Daksh8740",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1509635791487582228/Lv_99cEc_normal.jpg",
+                "date": "2024-05-09T17:41:58Z"
+            },
+            {
+                "url": "https://twitter.com/Daksh8740/status/1788607668443136205",
+                "text": "Best trading community with more executive chat rooms \n join herehttps://linktr.ee/tradingalertsonwhatsapp\n\n$SPY $NIO $TSLA $DGLY  $TWTR $WKHS $ISIG $ES $AKBA $SUP $EV $QQQ https://t.co/VNm8StYHen",
+                "username": "Daksh8740",
+                "user_url": "https://twitter.com/Daksh8740",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1509635791487582228/Lv_99cEc_normal.jpg",
+                "date": "2024-05-09T16:31:13Z"
+            }
+        ],
+        "experts": []
+    },
+    "BP": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/SpecialSitsNews/status/1788630752353005709",
+                "text": "Breaking: $BP is looking to buy $TSLA Supercharger stations (BBG)\n- Could be why Tesla fired entire team\n- BP \u201cis aggressively looking to acquire real estate to scale our network, which is a heightened focus following the recent Tesla announcement.\u201d",
+                "username": "SpecialSitsNews",
+                "user_url": "https://twitter.com/SpecialSitsNews",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1610807772836233218/HXHJ7Ljx_normal.jpg",
+                "date": "2024-05-09T18:02:57Z"
+            },
+            {
+                "url": "https://twitter.com/StockMKTNewz/status/1788637263670251892",
+                "text": "BP's $BP EV charging arm is eager to snap up Tesla $TSLA supercharging sites across the \ud83c\uddfa\ud83c\uddf8 \u2014 along with the workers behind them \u2014 and has pledged $1B to expand its network - Bloomberg",
+                "username": "StockMKTNewz",
+                "user_url": "https://twitter.com/StockMKTNewz",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1366208150211350534/GfAPwpyD_normal.jpg",
+                "date": "2024-05-09T18:28:49Z"
+            },
+            {
+                "url": "https://twitter.com/LuxAlgo/status/1788638194725954028",
+                "text": "JUST IN: $BP commits $1B to 'aggressively scale' EV charging network by buying $TSLA Supercharger sites and hiring teams from recent Tesla layoffs https://t.co/48pnjlTa2O",
+                "username": "LuxAlgo",
+                "user_url": "https://twitter.com/LuxAlgo",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1788746907772223488/COiF-teV_normal.jpg",
+                "date": "2024-05-09T18:32:31Z"
+            }
+        ],
+        "experts": []
+    },
+    "ES": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Daksh8740/status/1788638714295353566",
+                "text": "Best trading community with more executive chat rooms \n join herehttps://linktr.ee/tradingalertsonwhatsapp\n\n$SPY $NIO $TSLA $DGLY  $TWTR $WKHS $ISIG $ES $AKBA $SUP $EV $QQQ https://t.co/CCWwoj4ouk",
+                "username": "Daksh8740",
+                "user_url": "https://twitter.com/Daksh8740",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1509635791487582228/Lv_99cEc_normal.jpg",
+                "date": "2024-05-09T18:34:35Z"
+            },
+            {
+                "url": "https://twitter.com/Daksh8740/status/1788625474010144820",
+                "text": "Best trading community with more executive chat rooms \n join herehttps://linktr.ee/tradingalertsonwhatsapp\n\n$SPY $NIO $TSLA $DGLY  $TWTR $WKHS $ISIG $ES $AKBA $SUP $EV $QQQ https://t.co/IeCz8Z0FCy",
+                "username": "Daksh8740",
+                "user_url": "https://twitter.com/Daksh8740",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1509635791487582228/Lv_99cEc_normal.jpg",
+                "date": "2024-05-09T17:41:58Z"
+            },
+            {
+                "url": "https://twitter.com/Daksh8740/status/1788607668443136205",
+                "text": "Best trading community with more executive chat rooms \n join herehttps://linktr.ee/tradingalertsonwhatsapp\n\n$SPY $NIO $TSLA $DGLY  $TWTR $WKHS $ISIG $ES $AKBA $SUP $EV $QQQ https://t.co/VNm8StYHen",
+                "username": "Daksh8740",
+                "user_url": "https://twitter.com/Daksh8740",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1509635791487582228/Lv_99cEc_normal.jpg",
+                "date": "2024-05-09T16:31:13Z"
+            }
+        ],
+        "experts": []
+    },
+    "ALV": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nerdwallet.com/article/investing/ev-stocks",
+                "title": "15 Best-Performing EV Stocks for May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "FCX": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nerdwallet.com/article/investing/ev-stocks",
+                "title": "15 Best-Performing EV Stocks for May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "GNTX": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nerdwallet.com/article/investing/ev-stocks",
+                "title": "15 Best-Performing EV Stocks for May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "WBX": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/7-ev-charging-stocks-that-will-make-early-investors-rich",
+                "title": "7 EV Charging Stocks That Will Make Early Investors Rich",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketbeat.com/compare-stocks/ev-charging-stocks/",
+                "title": "Compare EV Charging Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://greenstocknews.com/stocks/ev-charging-stocks",
+                "title": "List of EV Charging Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    }
+}
