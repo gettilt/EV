@@ -391,24 +391,6 @@
         "tweets": [],
         "experts": []
     },
-    "NKLA": {
-        "chat_gpt": null,
-        "claude": null,
-        "search_articles": [
-            {
-                "url": "https://www.youtube.com/watch?v=jm2KAtEmLx8",
-                "title": "\ud83d\ude80 The 7 Best Electric Vehicle Stocks To Buy In a Changing ...",
-                "youtube_embed_url": "https://www.youtube.com/embed/jm2KAtEmLx8"
-            },
-            {
-                "url": "https://list.solar/transport/top-ev-stocks/",
-                "title": "Top EV Stocks | Best Electric Vehicle stocks",
-                "youtube_embed_url": null
-            }
-        ],
-        "tweets": [],
-        "experts": []
-    },
     "SLDP": {
         "chat_gpt": null,
         "claude": null,
