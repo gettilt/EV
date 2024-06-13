@@ -74,7 +74,6 @@ with open('theme.csv') as file:
 | XPEV | XPeng is a Chinese electric vehicle manufacturer with strong growth potential, focusing on smart, technology-driven EVs. | chat_gpt,claude,google |
 | EVGO |  | claude,google |
 | LCID |  | claude |
-| NKLA |  | claude,google |
 | SLDP |  | claude,google |
 | AKBA |  | twitter |
 | BP |  | twitter |
